@@ -4,7 +4,7 @@
 
 [-] Mutex Lock
 
-[] Create Spin Locks in User Space
+[-] Create Spin Locks in User Space
 
 [] Schedule thread execution
 
