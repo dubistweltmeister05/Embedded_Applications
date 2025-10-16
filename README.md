@@ -2,7 +2,7 @@
 
 [] Decimal Numbers via LEDs
 
-[] Mutex Lock
+[-] Mutex Lock
 
 [] Create Spin Locks in User Space
 
