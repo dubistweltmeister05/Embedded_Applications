@@ -14,7 +14,7 @@
 
 [] Demonstrate Extern Modifiers 
 
-[] Shared Memory and Sync
+[-] Shared Memory and Sync
 
 [] Debug level prints
 
