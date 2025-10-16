@@ -16,6 +16,6 @@
 
 [] Shared Memory and Sync
 
-[] DEbug level prints
+[] Debug level prints
 
 
