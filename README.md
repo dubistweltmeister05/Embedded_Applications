@@ -12,7 +12,7 @@
 
 [] Bitwise Operations via LEDs
 
-[] Demonstrate Extern Modifiers 
+[-] Demonstrate Extern Modifiers 
 
 [-] Shared Memory and Sync
 
