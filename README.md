@@ -6,7 +6,7 @@
 
 [-] Create Spin Locks in User Space
 
-[] Schedule thread execution
+[-] Schedule thread execution
 
 [] Simulate and identify buffer overflow
 
